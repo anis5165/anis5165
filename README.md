@@ -32,7 +32,7 @@
 const anish = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "app dev", "MERN"],
+    askMeAbout: ["web dev", "MERN"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
@@ -42,7 +42,7 @@ const anish = {
             js: ["Node", "Express"],
         },
         databases: ["MongoDB", "MySQL"],
-        misc: ["Git", "REST APIs", "Postman"]
+        misc: ["Git", "REST APIs", "Postman", "VSCode"]
     },
     currentFocus: "Building scalable web applications",
     funFact: "There are two ways to write error-free programs; only the third one works"
@@ -99,30 +99,6 @@ const anish = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anis5165&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 📊 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anis5165/anis5165/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anis5165/anis5165/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anis5165/anis5165/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -131,7 +107,7 @@ const anish = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-kumar-4007a6255/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishkumargvm02@gmail.com)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/anish_5165)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/anis5165)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://anish-portfolio-one.vercel.app/)
 
 </div>
 
@@ -144,21 +120,6 @@ const anish = {
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<div align="center">
-  
-**💡 Tip:** Add WakaTime to track your coding stats automatically!
 
 </div>
 
