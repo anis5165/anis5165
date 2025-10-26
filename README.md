@@ -85,12 +85,12 @@ const anish = {
 
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,render&theme=dark" />
 </p>
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp&theme=dark" />
 </p>
 
 </div>
