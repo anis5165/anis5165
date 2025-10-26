@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://github.com/anis5165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anis5165&theme=radical&hide_border=false" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=anis5165&theme=radical&hide_border=false" alt="GitHub Streak" />
   </a>
 </div>
 
