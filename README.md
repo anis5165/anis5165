@@ -57,7 +57,7 @@ const anish = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anis5165&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BDBF7&icon_color=3BDBF7&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=anis5165&theme=tokyonight&hide_border=true&background=0D1117&ring=3BDBF7&fire=3BDBF7&currStreakLabel=3BDBF7" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=anis5165&theme=tokyonight&hide_border=true&background=0D1117&ring=3BDBF7&fire=3BDBF7&currStreakLabel=3BDBF7" />
 </div>
 
 <div align="center">
@@ -75,17 +75,17 @@ const anish = {
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
 </p>
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
 </p>
 
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,render&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel&theme=dark" />
 </p>
 
 ### Programming Languages
