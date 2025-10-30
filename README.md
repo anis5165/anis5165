@@ -57,12 +57,12 @@ const anish = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anis5165&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BDBF7&icon_color=3BDBF7&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=anis5165&theme=tokyonight&hide_border=true&background=0D1117&ring=3BDBF7&fire=3BDBF7&currStreakLabel=3BDBF7" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=anis5165&theme=tokyonight&hide_border=true&background=0D1117&ring=3BDBF7&fire=3BDBF7&currStreakLabel=3BDBF7" />
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis5165&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BDBF7&text_color=c9d1d9&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=anis5165&custom_title=Contribution%20Graph&bg_color=0D1117&color=3BDBF7&line=3BDBF7&point=FFFFFF&area=true&hide_border=true" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=anis5165&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
